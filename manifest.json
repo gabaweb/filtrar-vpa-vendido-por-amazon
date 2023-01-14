@@ -1,7 +1,7 @@
 {
    "manifest_version": 3,
-   "name": "VPA - Filtrar \"Vendido por Amazon.com.br\"",
-   "description": "Filtrar resultados da pesquisa da Amazon BR com o filtro \"Vendido por Amazon.com.br\"",
+   "name": "Filtrar VPA (Vendido por Amazon)",
+   "description": "Extensão para filtrar "Vendido por Amazon.com.br" em todas as pesquisas na Amazon",
    "version": "0.0.10",
    "icons": {
      "128": "icons/icon.png"
