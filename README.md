@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/github/license/gabaweb/vpa-vendido-por-amazon)](LICENSE)
+
 # Filtrar VPA (Vendido por Amazon)
 
 **Extensão para filtrar "Vendido por Amazon.com.br" em todas as pesquisas**
