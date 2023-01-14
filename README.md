@@ -2,7 +2,7 @@
 
 **Extensão para filtrar "Vendido por Amazon.com.br" em todas as pesquisas**
 
-Extensão do Chrome e outros navegadores Chromium (Edge, Opera, Brave) para filtrar resultados de todas as pesquisas da Amazon BR com o filtro "Vendido por Amazon.com.br".
+Extensão do Chrome e outros navegadores Chromium (Edge, Opera, Brave) para filtrar resultados de todas as pesquisas na Amazon BR com o filtro "Vendido por Amazon.com.br".
 
 ## Instalação
 
