@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "regexFilter": "^.*amazon.com.br/s.*&rh=.*p_6%3AA1ZZFT5FULY4LN.*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "regexSubstitution": "\\0&rh=p_6%3AA1ZZFT5FULY4LN"
+      }
+    },
+    "condition": {
+      "regexFilter": "^.*amazon.com.br/s.*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  }
+]
