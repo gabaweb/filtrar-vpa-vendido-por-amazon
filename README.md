@@ -1,6 +1,8 @@
-# VPA - Filtrar "Vendido por Amazon.com.br"
+# Filtrar VPA (Vendido por Amazon)
 
-Extensão do Chrome e outros navegadores Chromium para filtrar resultados da pesquisa da Amazon BR com o filtro "Vendido por Amazon.com.br".
+**Extensão para filtrar "Vendido por Amazon.com.br" em todas as pesquisas**
+
+Extensão do Chrome e outros navegadores Chromium (Edge, Opera, Brave) para filtrar resultados de todas as pesquisas da Amazon BR com o filtro "Vendido por Amazon.com.br".
 
 ## Instalação
 
