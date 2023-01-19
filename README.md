@@ -6,9 +6,11 @@
 
 Extensão do Chrome e outros navegadores Chromium (Edge, Opera, Brave) para filtrar resultados de todas as pesquisas na Amazon BR com o filtro "Vendido por Amazon.com.br".
 
-## Instalação - Chrome Web Store
+## Instalação
 
-https://chrome.google.com/webstore/detail/filtrar-vpa-vendido-por-a/nkdcpgdichokomdknjhhfoaakmaiddof?hl=pt-BR
+Instale pela a Chrome Web Store:
+
+https://chrome.google.com/webstore/detail/filtrar-vpa-vendido-por-a/nkdcpgdichokomdknjhhfoaakmaiddof
 
 ## Desenvolvimento
 
